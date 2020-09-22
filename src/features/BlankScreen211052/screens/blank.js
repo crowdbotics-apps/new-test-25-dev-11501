@@ -46,10 +46,10 @@ _Blank = withStyles(__Blank, theme => ({
     alignContent: "stretch",
     borderColor: "#000000",
     borderStyle: "solid",
-    borderWidth: 01,
+    borderWidth: 5,
     borderLeftWidth: 0,
     borderRightWidth: 0,
-    borderTopWidth: 0,
+    borderTopWidth: 5,
     borderBottomWidth: 0,
     borderRadius: 0,
     backgroundSize: "auto"
