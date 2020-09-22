@@ -49,7 +49,7 @@ _Blank = withStyles(__Blank, theme => ({
     borderWidth: 5,
     borderLeftWidth: 0,
     borderRightWidth: 0,
-    borderTopWidth: 5,
+    borderTopWidth: 51,
     borderBottomWidth: 0,
     borderRadius: 0,
     backgroundSize: "auto"
