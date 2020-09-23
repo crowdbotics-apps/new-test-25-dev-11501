@@ -25,7 +25,7 @@ export class __Blank extends React.Component {
 
 _Blank = withStyles(__Blank, theme => ({
   View_1: {
-    marginLeft: 11,
+    marginLeft: 110,
     marginRight: 0,
     marginTop: 0,
     marginBottom: 0,
